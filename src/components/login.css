@@ -1,0 +1,42 @@
+/* src/components/login.css */
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .login-title {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .login-form {
+    width: 100%;
+  }
+  
+  .login-input {
+    border-radius: 8px;
+  }
+  
+  .login-button {
+    width: 100%;
+  }
+  
+  .login-extra {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .login-forgot-password {
+    color: #1890ff;
+  }
+
+  
+  
